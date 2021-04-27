@@ -1,0 +1,88 @@
+.center-nav{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(94, 94, 223);
+}
+.center{
+    margin: auto;
+    width: 70%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
+.my-nav{
+    font-size: 20px;
+    
+}
+.my-nav:hover{
+    background-color:yellow;
+    display: inline-block;
+}
+.box{
+        -webkit-box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0); 
+        box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0);
+        background: #1C6EA4;
+        display: inline-block;
+        }
+body#tinymce {
+        background: #FFFFFF
+        }
+main fieldset img.dogimg{ 
+    display: inline-block;
+    margin-right: 700px;
+    margin-top: -90px;
+}
+fieldset p2{
+    float: right;
+    margin-top: -120px;
+    
+}
+main fieldset{
+    background-color: rgb(172, 172, 236);
+}
+.my-work fieldset{
+    background-color: rgb(231, 231, 240);
+}
+    
+a{
+    margin-right: 30px;
+}
+.my-work p{ 
+    display: inline-block;
+    font-size: large;
+    width: 70%;
+    
+    
+   
+}
+.my-work img{
+    
+    border-radius: 50px;
+    float: left;
+    
+    
+}
+.contact-me{
+    background-color: rgb(168, 168, 214);
+}
+.contact-me form{
+    text-align: center;
+}
+
+.contact-me form input{
+    width: 40%;
+    display: inline-block;
+    margin-right: auto;
+    
+}
+.contact-me form fieldset input:nth-of-type(2){
+    margin-right: 50px;
+    margin-left: auto;
+}
+.end{
+    text-align: center;
+    background-color: rgb(110, 110, 128);
+}
+
+
+
